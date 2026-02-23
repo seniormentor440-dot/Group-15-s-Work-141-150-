@@ -1,0 +1,10 @@
+Git is a tool install on my computer to track every single change I make yo my files.
+GitHub is a website where I host my Git projects so other people can see them.
+Git is a tool on my machine and  GitHub is the online platform I save my work to.
+. Steps to upload from Git to GitHub 
+
+Run git init to tell Git to start watching my folder.
+Use git add . to pick the files I want to save.
+Run git commit -m "first commit" to lock those commit in
+Go to GitHub, create a new repo, and copy the URL. link it using git remote add origin [URL].
+Run git push -u origin main to blast my code up to the cloud.
