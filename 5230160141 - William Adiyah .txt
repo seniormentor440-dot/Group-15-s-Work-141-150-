@@ -1,0 +1,29 @@
+ASSIGNMENT 
+
+INDEX -5230160141 
+- WILLIAM ADIYAH 
+COURSE: SOFTWARE ENGINEERING. 
+
+1. Research: Version Control, Git, and GitHub
+A Version Control System (VCS) is a critical software category that manages changes to source code over time. It functions as a digital timeline, tracking every modification in a specialized database. This allows developers to revert to previous versions if errors occur, minimizing disruption during collaborative projects.
+
+Git is the most widely adopted modern VCS. As a distributed system, it allows every developer to maintain a full history of the project locally on their machine. Git’s primary strength lies in its "branching" model, which enables developers to work on new features in isolation without compromising the main codebase until the code is stable.
+
+GitHub, by contrast, is a cloud-based hosting service for Git repositories. While Git is the command-line tool used to manage code locally, GitHub provides the infrastructure to store those repositories online. It facilitates social coding through a web-based interface, offering features like pull requests, issue tracking, and team management that Git does not provide on its own.
+
+The Difference:
+The fundamental distinction is that Git is the tool, whereas GitHub is the platform. Git tracks local changes and history; GitHub allows those changes to be shared globally, enabling seamless remote collaboration and backup.
+
+
+2. Technical Steps: Pushing Code to GitHub
+To move code from a local machine to a remote GitHub repository, follow these standard procedures:
+
+1. Initialize: Open your terminal in the project folder and run git init.
+2. Stage Files: Prepare your files for a snapshot using git add . (the period adds all files).
+3. Commit: Create a record of the changes with git commit -m "Initial commit".
+4. Connect Remote: Link your local folder to GitHub by running:
+git remote add origin [Your-Repository-URL]
+
+5. Set Branch: Ensure you are on the primary branch with git branch -M main.
+
+6. Push: Upload the code to the cloud using git push -u origin main.
