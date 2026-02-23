@@ -1,0 +1,3 @@
+                                                                      Git and GitHub 
+ In simple terms, Git is the software, while GitHub is the platform that uses Git.
+
