@@ -1,3 +1,0 @@
-Git is a tool install on my computer to track every single change I make yo my files.
-GitHub is a website where I host my Git projects so other people can see them.
-Git is a tool on my machine and  GitHub is the online platform I save my work to.
