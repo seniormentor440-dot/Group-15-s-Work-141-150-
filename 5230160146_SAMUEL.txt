@@ -1,0 +1,35 @@
+QUESTION 1:
+i. What is Git?
+Git is a distributed version control system (DVCS) used to track changes in source code during software development. It was created by Linus Torvalds in 2005 to help manage the development of the Linux kernel. Git allows developers to record changes to files, compare different versions, revert to previous states, and collaborate efficiently with others.
+One of Git’s strongest features is that it is distributed, meaning every developer has a full copy of the entire project history on their local machine. This makes it fast, reliable, and capable of working offline. Git uses concepts such as repositories, commits, branches, and merges. A commit represents a saved snapshot of changes, while branches allow developers to work on new features or fixes without affecting the main project.
+Git ensures data integrity using cryptographic hashing (SHA), which makes it very secure and difficult to tamper with history. In real-world practice, Git is widely used in software engineering, DevOps, cybersecurity projects, and open-source collaboration to manage code changes efficiently and systematically.
+
+ii. What is GitHub?
+GitHub is a cloud-based hosting platform that allows developers to store, manage, and share Git repositories online. While Git itself is a version control tool, GitHub provides a web interface and collaboration tools built around Git. It was launched in 2008 and has become one of the largest platforms for software development collaboration.
+GitHub enables multiple developers to work on the same project from different locations. It provides features such as pull requests, issue tracking, project boards, and code reviews. A pull request allows developers to propose changes and request feedback before merging them into the main branch. This makes teamwork structured and secure.
+GitHub also supports open-source development, where developers worldwide can contribute to public projects. In addition, it offers security features like vulnerability scanning, access control, and integration with CI/CD pipelines.
+In simple terms, GitHub acts like a social network for developers and a central backup location for Git repositories. It enhances collaboration, visibility, and project management beyond what Git alone provides.
+
+iii. What is a Version Control System (VCS)?
+A Version Control System (VCS) is a software tool that helps track and manage changes made to files over time. It allows individuals or teams to record modifications, revert to earlier versions, and maintain a history of updates. VCS is widely used in software development but can also manage documents, research data, and configuration files.
+The main purpose of a VCS is to prevent data loss and improve collaboration. For example, if multiple developers are working on the same file, a VCS ensures changes are merged systematically without overwriting each other’s work. It also keeps a log of who made changes, when they were made, and why.
+There are two main types of VCS: Centralized Version Control Systems (CVCS), like Subversion (SVN), where there is a single central server; and Distributed Version Control Systems (DVCS), like Git, where each user has a complete copy of the repository.
+A VCS improves accountability, supports teamwork, enhances security, and ensures project stability by maintaining structured change management throughout the development lifecycle.
+
+iv. Difference Between Git and GitHub.
+Git and GitHub are related but not the same. Git is a version control system, while GitHub is a platform that hosts Git repositories online.
+Git is a command-line tool installed on a local computer. It tracks file changes, manages branches, records commits, and allows merging of code. It works offline and does not require the internet to function. Git focuses purely on version control operations.
+GitHub, on the other hand, is a web-based service that uses Git as its underlying system. It allows developers to store repositories in the cloud, collaborate with teams, review code, and manage projects. GitHub adds features such as pull requests, issue tracking, access permissions, and workflow automation.
+
+Question 2:
+Steps involved in Pushing Code from a Local Machine to GitHub
+1. Install Git
+2. Create GitHub Account
+3. Configure Git
+4. Create Repository on GitHub
+5. Navigate to Your Project
+6. Initialize Git
+7. Add All Files
+8. Commit Files
+9. Connect to GitHub
+10. Push to GitHub
