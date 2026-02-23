@@ -1,0 +1,5 @@
+
+1)i) Git, GitHub, Version Control Systems, and Code Push Steps
+Git is a distributed version control system used to track changes in source code during software development.
+
+ii) GitHub is a web-based platform that hosts Git repositories online. It allows developers to store their code remotely and work together through features such as pull requests, issue tracking.
