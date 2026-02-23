@@ -1,15 +1,11 @@
-What Is Git?
+What is Git?
+Git is a distributed version control system created in 2005 by Linus Torvalds. It allows developers to track code changes, create branches to work on new features, and merge those features back into the main project. Because Git is distributed, every user has a complete copy of the project history on their computer. This makes it fast, reliable, and usable even without internet access.
 
-Git is a distributed version control system (VCS) created in 2005 by Linus Torvalds. It helps developers track changes in their source code over time. With Git, you can record different versions of a project, compare changes, revert to previous versions, and collaborate with others without losing work. Because it is distributed, every developer has a complete copy of the project history on their own computer. Git is widely used in software development due to its speed, flexibility, and strong branching and merging features.
+What is Github?
+GitHub is a web-based platform that hosts Git repositories online. It provides collaboration tools such as pull requests, issue tracking, and project management features. GitHub makes it easier for teams to work together and share projects publicly or privately.
 
-What Is GitHub?
+What is Version Control System (VCS)?
+A Version Control System (VCS) is a tool that helps developers track and manage changes made to files over time. It records every modification, allowing users to review history, compare versions, and restore earlier work if needed. Version control is especially important in software development because multiple people can work on the same project without overwriting each other’s changes. There are centralized systems and distributed systems.
 
-GitHub is a cloud-based platform that hosts Git repositories online. It allows developers to store their code, collaborate with others, manage projects, review code, and track issues. GitHub provides a user-friendly interface and additional tools such as pull requests, issue tracking, and project boards. While Git works locally on your computer, GitHub works online to help teams collaborate more efficiently.
-
-What Is a Version Control System (VCS)?
-
-A Version Control System is a tool that helps track and manage changes to files over time. It allows multiple people to work on the same project without overwriting each other’s work. A VCS keeps a history of modifications, making it easy to restore earlier versions if mistakes occur.
-
-Difference Between Git and GitHub
-
-The main difference is that Git is a tool, while GitHub is a service. Git manages and tracks code changes locally, whereas GitHub hosts Git repositories online and provides collaboration features. In simple terms, Git is the engine, and GitHub is the platform that uses that engine for teamwork and sharing projects.
+Difference between Git and GitHub
+The main difference between Git and GitHub is that Git is the software used to track and manage changes locally, while GitHub is an online service that stores Git repositories and supports collaboration. Git works offline; GitHub requires internet access.
