@@ -1,0 +1,19 @@
+ASSIGNMENT ON GIT, GITHUB AND VERSION CONTROL SYSTEM
+Name: Judith Aduna
+Index Number: 5230160142
+
+
+Git is a distributed version control system used to track changes in files, especially during software development. 
+It records changes through commits, which show what was modified, who made the change, and when it was made. 
+Git allows branching, enabling developers to work on new features without affecting the main project. 
+Because it is distributed, every user has a complete copy of the repository, which supports collaboration and offline work.
+
+GitHub is a web-based platform that hosts Git repositories online. While Git manages version control locally on a computer, 
+GitHub provides cloud storage and collaboration tools such as pull requests and issue tracking. 
+A Version Control System (VCS) helps manage and track file changes over time and allows users to return to previous versions if needed. 
+The main difference is that Git is the software for tracking changes, while GitHub is the platform for sharing and collaborating on Git projects.
+
+To push code to GitHub, install and configure Git, create a repository on GitHub, initialize your project with git init, 
+add files using git add ., commit with git commit -m "Initial commit", connect to the remote repository, 
+and push using git push -u origin main.
+
